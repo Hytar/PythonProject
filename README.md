@@ -1,0 +1,2 @@
+# PythonProject
+Pyhtona giriş projelerim
